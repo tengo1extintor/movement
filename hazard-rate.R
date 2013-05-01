@@ -19,3 +19,5 @@ lines(x,h_weib3,col=4)
 text(0.315,19,expression(paste(lambda,' = 5; ',gamma,' = 0.5' )),col=2,cex=0.8)
 text(0.3,17.5,expression(paste(lambda,' = 5; ',gamma,' = 1' )),col=3,cex=0.8)
 text(0.3,16,expression(paste(lambda,' = 5; ',gamma,' = 3' )),col=4,cex=0.8)
+
+x <- 1
